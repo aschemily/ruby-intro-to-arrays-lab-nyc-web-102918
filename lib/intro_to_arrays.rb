@@ -17,3 +17,9 @@ end
 def first_element
   arr.at(0)
 end
+
+def third_element
+  arr.at(2)
+end
+
+def
