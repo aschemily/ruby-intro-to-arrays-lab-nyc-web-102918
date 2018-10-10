@@ -15,7 +15,7 @@ def array_with_two_elements
 end
 
 def first_element
-  arr[1]
+  arr[0]
 end
 
 def third_element
