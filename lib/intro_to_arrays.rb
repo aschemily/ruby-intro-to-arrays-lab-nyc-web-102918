@@ -22,4 +22,8 @@ def third_element
   arr.at(2)
 end
 
-def
+def last_element
+  arr.at(-1)
+end
+
+def 
